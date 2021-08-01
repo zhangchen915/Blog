@@ -21,7 +21,7 @@ Strassen有`(7/8)n^3`次整数乘法和`(7/8)n^3+(3/4)n^2+8`次加法，而整�
 [Introduction and Strassen’s Algorithm.pdf][4]
 
 
-  [1]: https://zhangchen915.com/usr/uploads/2019/08/1300790795.png
-  [2]: https://zhangchen915.com/usr/uploads/2019/08/636473684.png
-  [3]: https://zhangchen915.com/usr/uploads/2019/08/3252040619.png
-  [4]: https://zhangchen915.com/usr/uploads/2019/08/2947691384.pdf
+  [1]: https://img.zhangchen915.com/2019/08/1300790795.png
+  [2]: https://img.zhangchen915.com/2019/08/636473684.png
+  [3]: https://img.zhangchen915.com/2019/08/3252040619.png
+  [4]: https://img.zhangchen915.com/2019/08/2947691384.pdf

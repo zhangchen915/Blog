@@ -18,5 +18,5 @@ date: "2017-08-22 12:18:00"
 官网地址：[refraction.network][2]
 
 
-  [1]: https://zhangchen915.com/usr/uploads/2017/08/1032515819.png
+  [1]: https://img.zhangchen915.com/2017/08/1032515819.png
   [2]: https://refraction.network/

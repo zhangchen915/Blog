@@ -92,11 +92,11 @@ Fibers 或是有栈协程是一个处理函数调用的展开的栈。为了更�
 
 每次调用函数时，都会保存链接寄存器，以便该函数知道完成后要返回的位置。
 
-<img src="//zhangchen915.com/usr/uploads/2019/11/3714716339.png" width="50%" height="50%"></img>
+<img src="//img.zhangchen915.com/2019/11/3714716339.png" width="50%" height="50%"></img>
 
 当栈式协程被执行时，被调用函数使用先前分配的栈来存储其参数和局部变量。因为所有信息都存储在栈式协程中调用的每个函数的堆栈中，所以fiber可能会在协程中调用的任何函数中暂停执行。
 
-<img src="//zhangchen915.com/usr/uploads/2019/11/2952600316.png" width="50%" height="50%"></img>
+<img src="//img.zhangchen915.com/2019/11/2952600316.png" width="50%" height="50%"></img>
 
 现在，让我们来看看上面的图片中发生了什么。首先，线程和fiber有自己独立的栈。绿色数字是操作发生的顺序号。
 1. 线程内部的常规函数​​调用，在栈上进行分配。
@@ -117,7 +117,7 @@ Fibers 或是有栈协程是一个处理函数调用的展开的栈。为了更�
 
 无栈协程的秘密在于，它们只能从顶级函数中挂起自己。对于所有其他函数，它们的数据都分配在被调用栈上，因此从协程调用的所有函数必须在挂起协程之前完成。协程保留其状态所需的所有数据均在堆上动态分配。这通常需要几个局部变量和参数，其大小远小于预先分配的整个堆栈。
 
-<img src="//zhangchen915.com/usr/uploads/2019/11/355593262.png" width="50%" height="50%"></img>
+<img src="//img.zhangchen915.com/2019/11/355593262.png" width="50%" height="50%"></img>
 
 现在我们可以看到，只有一个栈。让我们一步一步地跟踪图片中发生的事情。 （协程激活帧有两种颜色–黑色是存储在栈中的颜色，蓝色是存储在堆中的颜色）。
 
@@ -166,6 +166,6 @@ https://dkandalov.github.io/yielding-generators
 https://x.st/javascript-coroutines
 https://exploringjs.com/es6/ch_generators.html#ch_generators_ref_3
 
-  [1]: https://zhangchen915.com/usr/uploads/2019/11/3714716339.png
-  [2]: https://zhangchen915.com/usr/uploads/2019/11/2952600316.png
-  [3]: https://zhangchen915.com/usr/uploads/2019/11/355593262.png
+  [1]: https://img.zhangchen915.com/2019/11/3714716339.png
+  [2]: https://img.zhangchen915.com/2019/11/2952600316.png
+  [3]: https://img.zhangchen915.com/2019/11/355593262.png

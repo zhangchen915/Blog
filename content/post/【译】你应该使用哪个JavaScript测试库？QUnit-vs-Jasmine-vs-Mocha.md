@@ -68,7 +68,7 @@ https://github.com/thegrtman/javascript-test-framework-comparison
 [原文地址][4]
 
 
-  [1]: http://zhangchen915.com/usr/uploads/2016/11/4125582959.png
-  [2]: http://zhangchen915.com/usr/uploads/2016/11/2968338635.png
-  [3]: http://zhangchen915.com/usr/uploads/2016/11/4006474259.png
+  [1]: http://img.zhangchen915.com/2016/11/4125582959.png
+  [2]: http://img.zhangchen915.com/2016/11/2968338635.png
+  [3]: http://img.zhangchen915.com/2016/11/4006474259.png
   [4]: http://www.techtalkdc.com/which-javascript-test-library-should-you-use-qunit-vs-jasmine-vs-mocha/

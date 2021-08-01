@@ -133,4 +133,4 @@ Angular
 
 
   [1]: https://blog.biznas.io/why-we-chose-angular-2-over-react-for-our-enterprise-software-development-work-392e2c9e39a9
-  [2]: http://zhangchen915.com/usr/uploads/2017/03/3914609364.jpeg
+  [2]: http://img.zhangchen915.com/2017/03/3914609364.jpeg

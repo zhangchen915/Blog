@@ -46,5 +46,5 @@ Redux和Vuex都是基于Flux的思想实现的，这里我们以Redux为例。
 [What is an actual difference between redux and a state machine (e.g. xstate)?][2]
 
 
-  [1]: https://zhangchen915.com/usr/uploads/2019/08/4206290673.png
+  [1]: https://img.zhangchen915.com/2019/08/4206290673.png
   [2]: https://stackoverflow.com/questions/54482695/what-is-an-actual-difference-between-redux-and-a-state-machine-e-g-xstate

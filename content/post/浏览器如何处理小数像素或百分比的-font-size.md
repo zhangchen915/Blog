@@ -43,5 +43,5 @@ css值处理
 
 
 
-  [1]: https://zhangchen915.com/usr/uploads/2019/08/2537343433.gif
-  [2]: https://zhangchen915.com/usr/uploads/2019/08/236477902.gif
+  [1]: https://img.zhangchen915.com/2019/08/2537343433.gif
+  [2]: https://img.zhangchen915.com/2019/08/236477902.gif

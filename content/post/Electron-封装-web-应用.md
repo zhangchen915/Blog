@@ -7,7 +7,7 @@ slug: "879"
 date: "2020-12-09 11:08:00"
 ---
 
-![articleocw-5783f68fee8ae.png](https://zhangchen915.com/usr/uploads/2020/12/1159195420.png)
+![articleocw-5783f68fee8ae.png](https://img.zhangchen915.com/2020/12/1159195420.png)
 
 ### webview 标签
 使用 webview 标签，首先需要开启权限。

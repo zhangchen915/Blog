@@ -2,7 +2,7 @@ name: Auto publish to static website
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
@@ -12,15 +12,18 @@ jobs:
       - name: Checkout master
         uses: actions/checkout@v2
         with:
-          ref: master
+          ref: main
 
-      - name: Setup node
-        uses: actions/setup-node@v1
+      - name: Checkout submodules
+        run: git submodule update --init --recursive
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
         with:
-          node-version: "14.x"
+          hugo-version: 'latest'
 
-      - name: Build project
-        run: npm ci && npm run build
+      - name: Build
+        run: hugo --minify
 
       - name: Upload COS
         uses: zkqiang/tencent-cos-action@v0.1.0

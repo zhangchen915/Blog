@@ -45,4 +45,4 @@ keepalive_requests number;
 ##总结
 HTTP层的keep-alive是为了让tcp活得更久一点，以便在同一个连接上传送多个http，提高socket的效率。而TCP层的keepalive是一种检测TCP连接状况的保鲜机制。当nginx的keepalive_timeout值设置高于tcp_keepalive_time，并且距此TCP连接传输的最后一个HTTP响应，经过了tcp_keepalive_time时间之后，操作系统才会发送侦测包来决定是否要丢弃这个TCP连接。
 
-  [1]: https://zhangchen915.com/usr/uploads/2017/11/3010307666.png
+  [1]: https://img.zhangchen915.com/2017/11/3010307666.png

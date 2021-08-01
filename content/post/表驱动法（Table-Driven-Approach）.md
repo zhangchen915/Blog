@@ -7,7 +7,7 @@ slug: "772"
 date: "2020-02-01 23:55:00"
 ---
 
-<img src="https://zhangchen915.com/usr/uploads/2020/02/4045386708.png" alt="1_l7Hjzbw8oHpa39gF8GkW9Q.png" />
+<img src="https://img.zhangchen915.com/2020/02/4045386708.png" alt="1_l7Hjzbw8oHpa39gF8GkW9Q.png" />
 
 > 表示原则：把知识叠入数据以求逻辑质朴而健壮。 ——《UNIX编程艺术》
 

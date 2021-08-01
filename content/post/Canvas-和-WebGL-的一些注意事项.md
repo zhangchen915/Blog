@@ -54,9 +54,9 @@ Canvas与WebGL的最主要的区别是：canvas用cpu计算渲染，WebGL用gpu�
 [Line width setting in WebGL has no effect][8]
 
 
-  [1]: https://zhangchen915.com/usr/uploads/2017/09/842646587.png
-  [2]: https://zhangchen915.com/usr/uploads/2017/09/2147679425.png
-  [3]: https://zhangchen915.com/usr/uploads/2017/09/1614542632.png
+  [1]: https://img.zhangchen915.com/2017/09/842646587.png
+  [2]: https://img.zhangchen915.com/2017/09/2147679425.png
+  [3]: https://img.zhangchen915.com/2017/09/1614542632.png
   [4]: http://alteredqualia.com/tmp/webgl-linewidth-test/
   [5]: https://msdn.microsoft.com/zh-cn/library/dn265058%28v=vs.85%29.aspx?f=255&MSPPError=-2147217396
   [6]: http://%20https://stackoverflow.com/questions/22432036/do-i-have-to-have-the-content-beginpath-and-content-closepath

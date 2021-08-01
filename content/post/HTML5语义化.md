@@ -44,4 +44,4 @@ section元素表示文档中的一个区域（或节），section元素恰当的
 六、footer
 --------
 与header元素类似，footer用于表示页面的底部。
-  [1]: http://www.zhangchen915.com/usr/uploads/2015/12/2229991287.png
+  [1]: http://www.img.zhangchen915.com/2015/12/2229991287.png

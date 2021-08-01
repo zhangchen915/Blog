@@ -7,7 +7,7 @@ slug: "750"
 date: "2019-12-20 01:43:00"
 ---
 
-<img src="https://zhangchen915.com/usr/uploads/2019/12/204489382.jpg" alt="maxresdefault.jpg" />
+<img src="https://img.zhangchen915.com/2019/12/204489382.jpg" alt="maxresdefault.jpg" />
 
 **我们衡量一个页面的首屏，往往只关注了首屏的渲染速度，而忽视了交互维度的评价。**
 
@@ -40,11 +40,11 @@ TTI测量页面变为完全交互式所花费的时间。它与FID是比较相�
 #### 对SSR项目的进一步优化
 
 首先我们看一下SSR页面解析的过程：
-<img src="https://zhangchen915.com/usr/uploads/2019/12/406174717.png" alt="hydrate@2x.png" />
+<img src="https://img.zhangchen915.com/2019/12/406174717.png" alt="hydrate@2x.png" />
 为什么要对SSR页面额外进行关注？因为用户看见页面的时间提前了，但是客户端依然要解析执行JS，如果不做优化的话，可交互时间变化可能不大，所以之两个之间点的跨度反而变大了。
 
 下面是一个实际SSR项目的截图：
-<img src="https://zhangchen915.com/usr/uploads/2019/12/402169385.jpg" />
+<img src="https://img.zhangchen915.com/2019/12/402169385.jpg" />
 
 当然我们可以继续用上述思路优化，但是对于SSR项目我们还可推迟 `hydration` （客户端激活），或者部分 `hydration` （[Partial Hydration](https://github.com/facebook/react/pull/14717)）。
 

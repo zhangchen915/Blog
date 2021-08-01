@@ -64,5 +64,5 @@ while (--n > 0);
 
 
   [1]: https://zh.wikipedia.org/wiki/%E5%BE%AA%E7%8E%AF%E5%B1%95%E5%BC%80
-  [2]: https://zhangchen915.com/usr/uploads/2017/09/2213218042.png
+  [2]: https://img.zhangchen915.com/2017/09/2213218042.png
   [3]: https://jsperf.com/duffs-device

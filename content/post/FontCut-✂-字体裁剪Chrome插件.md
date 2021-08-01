@@ -116,10 +116,10 @@ https://github.com/zhangchen915/FontSubset
 - [字体是如何存储的？](https://zhuanlan.zhihu.com/p/53036815 "字体是如何存储的？") 
 
 
-  [1]: https://zhangchen915.com/usr/uploads/2019/11/1086516777.jpg
-  [2]: https://zhangchen915.com/usr/uploads/2019/11/2484991210.png
-  [3]: https://zhangchen915.com/usr/uploads/2019/11/2874624131.png
-  [4]: https://zhangchen915.com/usr/uploads/2019/11/4080563420.png
+  [1]: https://img.zhangchen915.com/2019/11/1086516777.jpg
+  [2]: https://img.zhangchen915.com/2019/11/2484991210.png
+  [3]: https://img.zhangchen915.com/2019/11/2874624131.png
+  [4]: https://img.zhangchen915.com/2019/11/4080563420.png
   [5]: https://github.com/zhangchen915/FontSubset
   [6]: https://github.com/caryll/
   [7]: https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization#%E4%BC%98%E5%8C%96%E5%8A%A0%E8%BD%BD%E5%92%8C%E6%B8%B2%E6%9F%93

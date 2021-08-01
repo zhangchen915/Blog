@@ -115,7 +115,7 @@ for (const x of iterable) {
 [为什么es6里的object不可迭代？][4]
 
 
-  [1]: https://zhangchen915.com/usr/uploads/2017/10/117367234.png
+  [1]: https://img.zhangchen915.com/2017/10/117367234.png
   [2]: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Iteration_protocols
   [3]: http://exploringjs.com/es6/ch_iteration.html#sec_iterating-language-constructs
   [4]: https://www.zhihu.com/question/50619539
