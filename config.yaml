@@ -38,10 +38,12 @@ params:
         subtitle: 由未见，到前所未见
         avatar:
             local: true
-            src: img/avatar.png
+            src: img/avatar.jpg
 
     article:
         math: false
+        toc: true
+        readingTime: true
         license:
             enabled: true
             default: Licensed under CC BY-NC-SA 4.0
@@ -93,7 +95,7 @@ params:
             limit: 30
 
         tagCloud:
-            limit: 1000
+            limit: 100
 
     opengraph:
         twitter:
@@ -105,7 +107,7 @@ params:
 
     defaultImage:
         opengraph:
-            enabled: false
+            enabled: true
             local: false
             src:
 
