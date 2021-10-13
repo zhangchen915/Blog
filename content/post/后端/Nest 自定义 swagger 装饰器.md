@@ -2,8 +2,9 @@
 title: "Nest 自定义 swagger 装饰器"
 categories: ["Nest.js"]
 tags: []
+draft: false
 slug: "nest-swagger-customer-decorate"
-date: "2021-9-3"
+date: "2021-09-03 18:01:45"
 ---
 
 @nestjs/swagger 是为Nest定制的Swagger模块，用装饰器的方式来生成描述RESTful api的文档。
