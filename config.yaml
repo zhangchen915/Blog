@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: https://zhangchen915.com
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 10
@@ -37,6 +37,7 @@ params:
         emoji: 🌿
         subtitle: 由未见，到前所未见
         avatar:
+            enabled: true
             local: true
             src: img/avatar.jpg
 
@@ -92,10 +93,10 @@ params:
             - tag-cloud
 
         archives:
-            limit: 30
+            limit: 5
 
         tagCloud:
-            limit: 100
+            limit: 10
 
     opengraph:
         twitter:
