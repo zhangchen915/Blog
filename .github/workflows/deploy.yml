@@ -23,7 +23,7 @@ jobs:
           hugo-version: 'latest'
 
       - name: Build
-        run: hugo --minify
+        run: hugo --minify --buildFuture
 
       - name: Upload COS
         uses: zkqiang/tencent-cos-action@v0.1.0
