@@ -1,10 +1,10 @@
 ---
-title: "Nest 自定义 swagger 装饰器"
+title: "Nest 分布式定时任务"
 categories: ["Nest.js"]
 tags: []
 draft: false
-slug: "nest-swagger-customer-decorate"
-date: "2021-09-03 19:01:45"
+slug: "nest-cron"
+date: "2021-09-13 19:01:45"
 ---
 
 

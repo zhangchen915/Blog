@@ -1,5 +1,5 @@
 ---
-title: "Github Action 打包 Docker 镜像&amp;自动部署"
+title: "Github Action 打包 Docker 镜像并自动部署"
 categories: ["默认分类"]
 tags: []
 draft: false
