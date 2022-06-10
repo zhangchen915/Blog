@@ -27,7 +27,7 @@ params:
 
     footer:
         since: 2015
-        customText: ❤️
+        customText: ❤️ <a href="https://beian.miit.gov.cn">津ICP备2021002864号</a>
 
     dateFormat:
         published: 2006年 1月 02日
