@@ -1,3 +1,13 @@
+---
+title: "NestJS 整洁架构"
+categories: ["Nest.js"]
+tags: []
+draft: false
+slug: "nest-clean"
+date: "2022-09-15 19:01:45"
+---
+
+
 # NestJS 整洁架构
 
 > 你的架构应该告诉读者系统，而不是你在系统中使用的框架——Robert C.Martin
@@ -54,7 +64,7 @@ Node 整洁架构图，图片由 Robert C. Martin 提供
 - 控制器
 - 中间件
 - 过滤器
-- 警卫
+- 守卫
 
 虽然这不是 NestJs 的文章，但我会在本文中尝试解释一些基本原理。
 
@@ -256,7 +266,7 @@ Book 控制器代码如下：
 
 - NestJs 在 bookDto 对象的后台进行验证
 - 我们正在使用`bookFactoryService`将我们的 DTO 转换为商业书籍对象
-- 致电我们的用例服务
+- 我们的用例服务
 - 创建对消费者的响应
 
 # 构架
