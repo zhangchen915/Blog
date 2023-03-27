@@ -40,7 +40,7 @@ Array(3).fill(1);
 Array.from(Array(100)).map(() => new Foo())
 ```
 
-###创建每个元素的值等于它的下标的数组
+### 创建每个元素的值等于它的下标的数组
 利用keys方法返回的可迭代对象。
 ```js
 Array.from(Array(3).keys())

@@ -8,7 +8,7 @@ date: "2018-09-02 14:19:00"
 ---
 
 我们先看一下二者具体做了些什么：
-####new Test():
+#### new Test():
 
 - create new Object() obj
 - set obj.__proto__ to Test.prototype
@@ -16,7 +16,7 @@ date: "2018-09-02 14:19:00"
 
 **最后一步如果构造函数未返回对象，则将该新对象返回，即this，如返回了对象，则替换this。**
 
-####Object.create( Test.prototype )
+#### Object.create( Test.prototype )
 
 - create new Object() obj
 - set obj.__proto__ to Test.prototype
