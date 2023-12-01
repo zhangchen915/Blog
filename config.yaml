@@ -53,50 +53,21 @@ params:
         enabled: false
         provider: disqus
 
-        utterances:
-            repo:
-            issueTerm: pathname
-            label:
-
-        remark42:
-            host:
-            site:
-            locale:
-
-        vssue:
-            platform:
-            owner:
-            repo:
-            clientId:
-            clientSecret:
-
-        # Waline client configuration see: https://waline.js.org/en/reference/client.html
-        waline:
-            serverURL:
-            lang:
-            visitor:
-            avatar:
-            emoji:
-                - https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo
-            requiredMeta:
-                - name
-                - email
-                - url
-            placeholder:
-            locale:
-                admin: Admin
 
     widgets:
-        enabled:
-            - search
-            - archives
-            - tag-cloud
-
-        archives:
-            limit: 5
-
-        tagCloud:
-            limit: 10
+        homepage:
+            - type: search
+            - type: archives
+              params:
+                  limit: 5
+            - type: categories
+              params:
+                  limit: 10
+            - type: tag-cloud
+              params:
+                  limit: 10
+        page:
+            - type: toc
 
     opengraph:
         twitter:
@@ -160,5 +131,8 @@ related:
           weight: 200
 
 markup:
+    goldmark:
+        renderer:
+            unsafe: true
     highlight:
         noClasses: false
