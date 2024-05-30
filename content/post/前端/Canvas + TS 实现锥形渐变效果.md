@@ -1,10 +1,10 @@
 ---
 title: "Canvas + TS 实现锥形渐变效果"
 categories: ["前端"]
-tags: ["Canvas","WebGL"]
+tags: ["Canvas"]
 draft: false
-slug: "cache-request"
-date: "2024-5-21 17:26:10"
+slug: "canvas-conic-gradient"
+date: "2024-05-21 17:26:10"
 ---
 
 ### 锥形渐变简介
