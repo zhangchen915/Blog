@@ -188,5 +188,5 @@ As JavaScript developers we write a lot of asynchronous code. In this article I 
 
 
 
-  [1]: http://img.zhangchen915.com/2017/02/1971631523.png
-  [2]: http://img.zhangchen915.com/2017/02/4253397062.png
+  [1]: http://img.bi-bo.cn/2017/02/1971631523.png
+  [2]: http://img.bi-bo.cn/2017/02/4253397062.png

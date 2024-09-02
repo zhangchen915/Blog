@@ -101,8 +101,8 @@ SVG与Canvas比较
 [SVG 与 Canvas：如何选择][7]
 
 
-  [1]: http://www.img.zhangchen915.com/2016/01/3901947819.png
-  [2]: http://www.img.zhangchen915.com/2016/01/1430902699.png
+  [1]: http://www.img.bi-bo.cn/2016/01/3901947819.png
+  [2]: http://www.img.bi-bo.cn/2016/01/1430902699.png
   [3]: https://developer.mozilla.org/zh-CN/docs/Web/SVG/Tutorial
   [4]: https://svgontheweb.com/zh/
   [5]: http://blog.iderzheng.com/something-about-svg-with-javascript/

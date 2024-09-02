@@ -54,4 +54,4 @@ https://www.zhihu.com/question/65824137
 https://github.com/NervJS/nerv/issues/3
 
 
-  [1]: https://img.zhangchen915.com/2019/10/1530262631.jpg
+  [1]: https://img.bi-bo.cn/2019/10/1530262631.jpg

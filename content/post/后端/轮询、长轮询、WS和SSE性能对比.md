@@ -20,14 +20,14 @@ https://www.aliyundrive.com/s/XBakKs1LuT2
 下图中的图形说明了空闲时每个服务的服务器资源。所有服务是用发送给他们的请求新建的。
 服务空闲状态最值得注意的是 Websocket 和其余服务的内存使用差异。一个可能的解释是 Websocket 服务运行于 Node.js ws-module 而其他服务在 Node.js http-module 上运行。除了 Websocket 内存使用之外，服务之间没有显着差异。
 
-![](https://img.zhangchen915.com/2022/11/sse-test.png)
+![](https://img.bi-bo.cn/2022/11/sse-test.png)
 
 
 ### 客户端性能测试
 
 - 未开启GC时内存使用
 
-![](https://img.zhangchen915.com/2022/11/memory-usage.png)
+![](https://img.bi-bo.cn/2022/11/memory-usage.png)
 
 可以通过额外TCP使用的内存来解释XHR轮询比长轮询使用更多的内存。
 
@@ -36,7 +36,7 @@ https://www.aliyundrive.com/s/XBakKs1LuT2
 
 - CPU 使用
 
-![](https://img.zhangchen915.com/2022/11/cpu-usage.png)
+![](https://img.bi-bo.cn/2022/11/cpu-usage.png)
 
 
 ### 结论

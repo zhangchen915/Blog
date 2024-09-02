@@ -7,7 +7,7 @@ slug: "779"
 date: "2020-02-14 18:11:00"
 ---
 
-<img src="https://img.zhangchen915.com/2020/02/1147220378.png" >
+<img src="https://img.bi-bo.cn/2020/02/1147220378.png" >
 
 RAII 的全称是 “Resource Acquisition is Initialization”  [^1]（资源获取即初始化），它是C++之父Bjarne Stroustrup提出的设计理念，目的是确保异常下的资源管理。换句话说，不管当前作用域以何种方式退出，都会执行资源释放等操作。
 

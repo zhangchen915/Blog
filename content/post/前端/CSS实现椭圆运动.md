@@ -63,7 +63,7 @@ date: "2023-10-10 15:56:10"
 ### 参数解析
 设置动画，分别控制小球 x 轴，y 轴，以及缩放比。先画张图，把小球 x 轴、y 轴的位置、缩放比与时间的关系用坐标系表示出来——
 
-![css-rotating-ball](https://img.zhangchen915.com/2023/11/css-rotating-ball.png)
+![css-rotating-ball](https://img.bi-bo.cn/2023/11/css-rotating-ball.png)
 
 通过这张画图可以看出——
 

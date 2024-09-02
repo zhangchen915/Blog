@@ -66,5 +66,5 @@ URL的定义是：统一资源定位符
 
 
 
-  [1]: http://www.img.zhangchen915.com/2015/12/199735265.png
-  [2]: http://www.img.zhangchen915.com/2015/12/152248943.png
+  [1]: http://www.img.bi-bo.cn/2015/12/199735265.png
+  [2]: http://www.img.bi-bo.cn/2015/12/152248943.png

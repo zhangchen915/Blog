@@ -5,7 +5,7 @@ tags: []
 draft: false
 slug: "stable diffusion prompt from text file"
 date: "2023-08-03 00:35:00"
-images: "https://img.zhangchen915.com/2023/08/stable-diffusion-feature-1160x680.jpg" 
+images: "https://img.bi-bo.cn/2023/08/stable-diffusion-feature-1160x680.jpg" 
 ---
 
 ### 使用文件脚本
@@ -67,6 +67,6 @@ prompt_tags = {
 #### CUDA核心使用对比
 
 - 使用 batch count
-  ![mJc2CJl](https://img.zhangchen915.com/2023/11/mJc2CJl.png) 
+  ![mJc2CJl](https://img.bi-bo.cn/2023/11/mJc2CJl.png) 
 - 使用 batch size
-  ![pmbsDXK](https://img.zhangchen915.com/2023/11/pmbsDXK.png)
+  ![pmbsDXK](https://img.bi-bo.cn/2023/11/pmbsDXK.png)

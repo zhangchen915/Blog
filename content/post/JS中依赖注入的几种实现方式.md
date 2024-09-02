@@ -159,6 +159,6 @@ https://modernweb.com/dependency-injection-in-javascript/
 [TypeScript 实现依赖注入][3]
 
 
-  [1]: https://img.zhangchen915.com/2018/08/3260314313.jpg
+  [1]: https://img.bi-bo.cn/2018/08/3260314313.jpg
   [2]: https://github.com/rbuckton/reflect-metadata
   [3]: https://zhuanlan.zhihu.com/p/22962797?refer=angular2

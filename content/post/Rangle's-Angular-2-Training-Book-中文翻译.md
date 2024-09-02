@@ -15,4 +15,4 @@ date: "2017-02-04 11:26:00"
 https://zhangchen915.gitbooks.io/angular2-training/
 
 
-  [1]: http://img.zhangchen915.com/2017/02/3890273541.png
+  [1]: http://img.bi-bo.cn/2017/02/3890273541.png

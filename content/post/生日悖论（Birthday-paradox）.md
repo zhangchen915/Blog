@@ -19,7 +19,7 @@ $\begin {aligned} y=1-\dfrac {365!}{365^{n}\left( 365-n\right) !}\end{aligned}$
 
 比较这两者曲线，第二种的增长非常快：
 
-<img src="https://img.zhangchen915.com/2020/03/1924959710.jpg" alt="v2-b8a148d4e4221cf34b22aa28281d0e24_720w.jpg" />
+<img src="https://img.bi-bo.cn/2020/03/1924959710.jpg" alt="v2-b8a148d4e4221cf34b22aa28281d0e24_720w.jpg" />
 
 ```c
 #include<stdio.h>  

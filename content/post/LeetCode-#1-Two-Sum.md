@@ -62,5 +62,5 @@ Hi=( H(key)+di ) MOD m i=1,2,…,k(k<=m-1)
 
 **[各种字符串Hash函数比较][2]**
 
-  [1]: http://www.img.zhangchen915.com/2015/12/2996978664.png
+  [1]: http://www.img.bi-bo.cn/2015/12/2996978664.png
   [2]: https://www.byvoid.com/blog/string-hash-compare

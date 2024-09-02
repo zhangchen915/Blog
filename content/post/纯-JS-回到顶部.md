@@ -38,5 +38,5 @@ function scrollTop(duration = 30) {
 
 
   [1]: http://www.wolframalpha.com/input/?i=(1-cos(x))%5E2%20from%200%20to%20pi
-  [2]: https://img.zhangchen915.com/2018/05/2168690342.png
+  [2]: https://img.bi-bo.cn/2018/05/2168690342.png
   [3]: https://juusomikkonen.com/blog/2016/07/24/animated-onclick-scroller-in-pure-js.html

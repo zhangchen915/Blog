@@ -140,6 +140,6 @@ https://pusher.com/sessions/meetup/the-js-roundabout/csp-in-js
 [Javascript中的CSP快速入门][3]
 
 
-  [1]: https://img.zhangchen915.com/2019/08/2488025574.jpg
-  [2]: https://img.zhangchen915.com/2019/09/1414704761.png
+  [1]: https://img.bi-bo.cn/2019/08/2488025574.jpg
+  [2]: https://img.bi-bo.cn/2019/09/1414704761.png
   [3]: https://lucasmreis.github.io/blog/quick-introduction-to-csp-in-javascript/

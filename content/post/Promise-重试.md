@@ -7,7 +7,7 @@ slug: "736"
 date: "2019-12-07 02:15:00"
 ---
 
-<img src="https://img.zhangchen915.com/2019/12/4213688885.png" alt="Promise Retry (1).png" />
+<img src="https://img.bi-bo.cn/2019/12/4213688885.png" alt="Promise Retry (1).png" />
 
 
 ### Promise cache 链

@@ -7,7 +7,7 @@ slug: "713"
 date: "2019-11-14 20:02:00"
 ---
 
-![](https://img.zhangchen915.com/2019/12/3603197327.png)
+![](https://img.bi-bo.cn/2019/12/3603197327.png)
 
 ### Android 使用 ADB 调试
 

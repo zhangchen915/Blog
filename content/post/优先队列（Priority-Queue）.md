@@ -12,7 +12,7 @@ date: "2020-04-06 18:04:00"
 ### 优先队列的表示
 我们用数组来表示二叉堆，并将根节点的索引置为 1。Heapify 中使用使用两个独立的类型数组（默认使用 Uint32Array ）表示二叉堆。
 
-<img src="https://img.zhangchen915.com/2020/04/4294270541.png" alt="heap-representations.png" />
+<img src="https://img.bi-bo.cn/2020/04/4294270541.png" alt="heap-representations.png" />
 
 在堆中，位置`k`的节点的父节点在位置`k / 2`；相反，位于位置`k`的节点的两个子节点位于位置`2k`和`2k +1`。我们可以通过对数组索引执行简单的计算来上下移动。
 

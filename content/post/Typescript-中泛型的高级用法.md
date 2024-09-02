@@ -118,4 +118,4 @@ let toad: amphibian = {
 **参考文章：**
 https://www.freecodecamp.org/news/typescript-curry-ramda-types-f747e99744ab/
 
-  [1]: https://img.zhangchen915.com/2019/11/963792284.png
+  [1]: https://img.bi-bo.cn/2019/11/963792284.png

@@ -114,7 +114,7 @@ main.js：
 [使用 RequireJS 优化 Web 应用前端][7]
 
 
-  [1]: http://www.img.zhangchen915.com/2015/12/3844294820.png
+  [1]: http://www.img.bi-bo.cn/2015/12/3844294820.png
   [2]: https://github.com/ericdum/mujiang.info/issues/2
   [3]: http://www.cnblogs.com/zhuimengdeyuanyuan/archive/2013/03/06/2946277.html
   [4]: https://developers.google.com/web/fundamentals/performance/?hl=zh

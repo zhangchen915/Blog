@@ -36,5 +36,5 @@ Dockerfile的第一条指令必须是FORM
 [10张图带你深入理解Docker容器和镜像][2]
 
 
-  [1]: https://img.zhangchen915.com/2017/07/121005378.png
+  [1]: https://img.bi-bo.cn/2017/07/121005378.png
   [2]: http://10%E5%BC%A0%E5%9B%BE%E5%B8%A6%E4%BD%A0%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Docker%E5%AE%B9%E5%99%A8%E5%92%8C%E9%95%9C%E5%83%8F

@@ -7,7 +7,7 @@ slug: "812"
 date: "2020-06-14 23:08:00"
 ---
 
-<img src="https://img.zhangchen915.com/2020/06/1852720414.jpg" alt="images.jpg" /> 
+<img src="https://img.bi-bo.cn/2020/06/1852720414.jpg" alt="images.jpg" /> 
  
  CSS 中的 `clip-path` 属性允许我们指定展示一个元素的特殊区域。注意 `clip`属性已经被废弃。
 

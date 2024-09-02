@@ -7,7 +7,7 @@ slug: "907"
 date: "2021-04-12 09:58:00"
 ---
 
-![android-github-actions-setup-image-35b6a79fea4a7289acb6796cd4ad05b4.png](https://img.zhangchen915.com/2021/05/4231068411.png)
+![android-github-actions-setup-image-35b6a79fea4a7289acb6796cd4ad05b4.png](https://img.bi-bo.cn/2021/05/4231068411.png)
 GitHub Actions 用起来非常简单，只要在你的仓库根目录建立.github/workflows文件夹，将你的工作流配置(YAML 文件)放到这个目录下，就能启用 GitHub Actions 服务
 
 ### 前端项目部署到服务器

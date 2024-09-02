@@ -67,4 +67,4 @@ https://github.com/zhangchen915/preact-isomorphic-style-loader
 
 
 
-  [1]: https://img.zhangchen915.com/2019/10/1713576898.svg
+  [1]: https://img.bi-bo.cn/2019/10/1713576898.svg

@@ -7,7 +7,7 @@ slug: "766"
 date: "2020-01-07 02:01:00"
 ---
 
-<img src="https://img.zhangchen915.com/2020/01/4277428354.jpg" alt="reloj_indefinido.jpg" />
+<img src="https://img.bi-bo.cn/2020/01/4277428354.jpg" alt="reloj_indefinido.jpg" />
 现代操作系统通常有两个时间，Wall clock 和 Monotonic clock。
 
 Wall clock 就是我们一般意义上的时间，就像墙上钟所指示的时间。该时钟可能会发生变化。例如，如果它与NTP（网络时间协议）同步。在这种情况下，同步后，我们服务器的本地时钟可以在时间上向后或向前跳。因此，从挂钟开始测量持续时间会产生偏差。

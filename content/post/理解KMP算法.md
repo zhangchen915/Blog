@@ -83,4 +83,4 @@ kmp的本质其实就是有限状态机(DFA)。
 未完待续
 
 
-  [1]: http://img.zhangchen915.com/2017/04/297984799.png
+  [1]: http://img.bi-bo.cn/2017/04/297984799.png

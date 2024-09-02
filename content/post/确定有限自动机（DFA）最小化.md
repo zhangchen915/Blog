@@ -7,7 +7,7 @@ slug: "743"
 date: "2019-12-08 18:12:00"
 ---
 
-<a href="https://img.zhangchen915.com/2019/12/2859639724.svg">StatechartDiagram1.svg</a>
+<a href="https://img.bi-bo.cn/2019/12/2859639724.svg">StatechartDiagram1.svg</a>
 
 
 
