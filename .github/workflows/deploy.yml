@@ -34,3 +34,11 @@ jobs:
           secret_key: ${{ secrets.SECRET_KEY }}
           bucket: ${{ secrets.BUCKET }}
           region: ap-beijing
+
+      - name: Upload COS
+        uses: keithnull/tencent-cloud-cdn-purge-cache@v1.0
+        env:
+          SECRET_ID: ${{ secrets.SECRET_ID }}
+          SECRET_KEY: ${{ secrets.SECRET_KEY }}
+          PATHS: ${{ secrets.PATHS }}
+          FLUSH_TYPE: "flush"
